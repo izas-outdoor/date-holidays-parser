@@ -11,7 +11,7 @@ import DateFn from './DateFn.js'
 import { HolidayRule } from './HolidayRule.js'
 
 // priority in ascending order (low ... high)
-const TYPES = ['observance', 'optional', 'school', 'bank', 'public']
+const TYPES = ['observance', 'optional', 'school', 'bank', 'public','Nacional', 'Regional',' Local']
 
 /**
  * @class
